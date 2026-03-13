@@ -1,0 +1,5 @@
+{
+  "name": "IELTS Master Speaking Test",
+  "description": "A comprehensive IELTS Speaking simulation app with archetype selection, real-time recording, and automated submission.",
+  "requestFramePermissions": ["microphone"]
+}
